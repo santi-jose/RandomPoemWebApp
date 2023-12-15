@@ -1,0 +1,28 @@
+
+body{
+    font-family: consolas;
+    background-image: url("https://img.freepik.com/free-photo/pastel-yellow-vignette-concrete-textured-background_53876-124561.jpg?w=1480&t=st=1702674118~exp=1702674718~hmac=d9e07b035a4b2ed47fcc464bff7680d97d75fd34deda8ffe039f52014aaae958");
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+#poem-container ol{
+    font-size: 45px;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 5%;
+}
+
+.header{
+    text-align: center;
+    font-size: 50px;
+}
+
+#generate-poem{
+    width: 125px;
+    height: 40px;
+}
+
+#button-container{
+    width: 125px;
+    margin: auto;
+}
